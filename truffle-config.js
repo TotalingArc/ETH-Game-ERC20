@@ -1,7 +1,7 @@
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const infuraKey = "https://kovan.infura.io/v3/f32a14c67fe74a709c30816215dc9f15";
-const mnemonic = "1c49d2330c06ba699edb3ecc24a4f674db2f1b38d7ab699a6d49363253a3ad5c";
+const infuraKey = "https://kovan.infura.io/v3/f98...................";
+const mnemonic = "1c4............................................";
 
 
 
