@@ -1,6 +1,7 @@
 web3 = new Web3(web3.currentProvider);
 ethereum.enable();
 
+//Abi commands
 var abi = [
     {
       "inputs": [
