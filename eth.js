@@ -346,7 +346,7 @@ var abi = [
   ]
 
   //Define Contract
-  var contract = new web3.eth.Contract(abi, "0x7AC.............");
+  var contract = new web3.eth.Contract(abi, "0x............");
 
   //console.log(contract); //Print to screen(log)
 
