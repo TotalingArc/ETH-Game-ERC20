@@ -16,7 +16,7 @@ In Ethereum Knights, players control a knight character, navigating through obst
 
 ## Features
 
-- **Interactive Gameplay**: Collect Bitcoins and avoid obstacles.
+- **Interactive Gameplay**: Collect Bitcoins and avoid obstacles.**
 - **Blockchain Integration**: Earn real ERC20 tokens based on your in-game performance.
 - **Phaser Game Engine**: High-performance and customizable game engine.
 - **Web3.js Integration**: Interact with Ethereum blockchain seamlessly.
